@@ -1,2 +1,19 @@
-# smart-retail-patrol-bot
-ROS2-based autonomous retail patrol robot using TortoiseBot with navigation, SLAM, and human detection.
+# Smart Retail Patrol Bot 🤖🛒
+
+Autonomous indoor robot built using TortoiseBot and ROS2 to patrol retail spaces, detect humans, and assist in store monitoring.
+
+## Features
+- ROS2-based SLAM using LiDAR
+- Autonomous navigation using pre-built maps
+- Human detection (OpenCV/YOLO)
+- Voice feedback using TTS
+- Map saving, teleop control
+
+## Hardware
+- TortoiseBot (RigBetel Labs)
+- Raspberry Pi 4 or Jetson Nano
+- RPLiDAR A1
+- USB/CSI Camera
+- Optional: Speaker, Microphone
+
+## Folder Structure
