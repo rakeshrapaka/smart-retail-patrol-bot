@@ -17,3 +17,6 @@ Autonomous indoor robot built using TortoiseBot and ROS2 to patrol retail spaces
 - Optional: Speaker, Microphone
 
 ## Folder Structure
+-launch/ - ROS2 launch files
+-maps/ - Saved SLAM maps
+-nodes/ - Custom ROS2 Python nodes
