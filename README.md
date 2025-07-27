@@ -21,3 +21,6 @@ Autonomous indoor robot built using TortoiseBot and ROS2 to patrol retail spaces
 - maps/ - Saved SLAM maps
 - nodes/ - Custom ROS2 Python nodes
 
+
+## Author
+[Rakesh Rapaka](https://www.linkedin.com/in/rakeshrapaka/)
