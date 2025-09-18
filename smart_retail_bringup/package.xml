@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>smart_retail_bringup</name>
+  <version>0.0.1</version>
+  <description>Bringup package for Smart Retail Patrol Bot</description>
+  <maintainer email="rakeshrapaka@gmail.com">Rakesh Rapaka</maintainer>
+  <license>Apache-2.0</license>
+
+  <!-- Core dependencies -->
+  <depend>launch</depend>
+  <depend>launch_ros</depend>
+  <depend>ament_cmake</depend>
+
+  <!-- Dependencies from TortoiseBot -->
+  <depend>tortoisebot_description</depend>
+  <depend>tortoisebot_navigation</depend>
+  <depend>tortoisebot_gazebo</depend>
+  <depend>tortoisebot_slam</depend>
+  <depend>tortoisebot_firmware</depend>
+  <depend>ydlidar</depend>
+
+  <!-- Smart Retail packages -->
+  <depend>patrol_manager</depend>
+  <depend>smart_retail_perception</depend>
+
+</package>
