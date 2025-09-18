@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>patrol_manager</name>
+  <version>0.0.1</version>
+  <description>Simple patrol manager for TortoiseBot</description>
+  <maintainer email="you@example.com">Rakesh</maintainer>
+  <license>Apache-2.0</license>
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+</package>

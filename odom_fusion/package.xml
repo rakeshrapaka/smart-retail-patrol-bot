@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>odom_fusion</name>
+  <version>0.0.1</version>
+  <description>Odometry fusion using robot_localization</description>
+  <maintainer email="you@example.com">Rakesh</maintainer>
+  <license>Apache-2.0</license>
+  <depend>rclpy</depend>
+  <depend>robot_localization</depend>
+</package>
