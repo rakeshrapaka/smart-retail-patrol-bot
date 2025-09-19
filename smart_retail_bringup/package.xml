@@ -6,21 +6,8 @@
   <maintainer email="rakeshrapaka@gmail.com">Rakesh Rapaka</maintainer>
   <license>Apache-2.0</license>
 
-  <!-- Core dependencies -->
+  <depend>ament_cmake</depend>
   <depend>launch</depend>
   <depend>launch_ros</depend>
-  <depend>ament_cmake</depend>
-
-  <!-- Dependencies from TortoiseBot -->
-  <depend>tortoisebot_description</depend>
-  <depend>tortoisebot_navigation</depend>
-  <depend>tortoisebot_gazebo</depend>
-  <depend>tortoisebot_slam</depend>
-  <depend>tortoisebot_firmware</depend>
-  <depend>ydlidar</depend>
-
-  <!-- Smart Retail packages -->
-  <depend>patrol_manager</depend>
-  <depend>smart_retail_perception</depend>
-
+  <buildtool_depend>ament_cmake</buildtool_depend>
 </package>

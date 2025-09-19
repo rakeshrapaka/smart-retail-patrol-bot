@@ -7,4 +7,5 @@
   <license>Apache-2.0</license>
   <depend>rclpy</depend>
   <depend>geometry_msgs</depend>
+  <buildtool_depend>ament_cmake</buildtool_depend>
 </package>
